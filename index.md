@@ -19,14 +19,14 @@ The Indexinator 2000 provides unparallalled indexing capabilities on the fly and
 ## Interactive Console
 
 <!-- MotionChart generated in R 3.1.0 by googleVis 0.5.2 package -->
-<!-- Wed Jun 18 16:15:23 2014 -->
+<!-- Wed Jun 18 16:41:26 2014 -->
 
 
 <!-- jsHeader -->
 <script type="text/javascript">
  
 // jsData 
-function gvisDataMotionChartID1d50ea2beeb () {
+function gvisDataMotionChartID1dabff7414c () {
 var data = new google.visualization.DataTable();
 var datajson =
 [
@@ -124,14 +124,14 @@ return(data);
 }
  
 // jsDrawChart
-function drawChartMotionChartID1d50ea2beeb() {
-var data = gvisDataMotionChartID1d50ea2beeb();
+function drawChartMotionChartID1dabff7414c() {
+var data = gvisDataMotionChartID1dabff7414c();
 var options = {};
 options["width"] =    600;
 options["height"] =    500;
 
     var chart = new google.visualization.MotionChart(
-    document.getElementById('MotionChartID1d50ea2beeb')
+    document.getElementById('MotionChartID1dabff7414c')
     );
     chart.draw(data,options);
     
@@ -155,9 +155,9 @@ if (newPackage)
   pkgs.push(chartid);
   
 // Add the drawChart function to the global list of callbacks
-callbacks.push(drawChartMotionChartID1d50ea2beeb);
+callbacks.push(drawChartMotionChartID1dabff7414c);
 })();
-function displayChartMotionChartID1d50ea2beeb() {
+function displayChartMotionChartID1dabff7414c() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -181,11 +181,11 @@ callbacks.shift()();
 </script>
  
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartMotionChartID1d50ea2beeb"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartMotionChartID1dabff7414c"></script>
  
 <!-- divChart -->
   
-<div id="MotionChartID1d50ea2beeb"
+<div id="MotionChartID1dabff7414c"
   style="width: 600px; height: 500px;">
 </div>
 
@@ -203,7 +203,7 @@ The Indexinator has been proven (on significance levels of *.99*) to imbue the f
 
 --- &radio
 
-## Quiz time!
+## Quiz time! 
 
 Do you want the Indexinator 2000?
 
